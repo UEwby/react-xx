@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dacc48d1-2bc6-418b-abc5-61f48e63ae49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/myapp/public/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/FlavorForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/FormEvent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/ListKeys.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/Page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/Refs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/Reservation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/State.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/State2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/cainiaodemo/WarningBanner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myapp/src/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/src/ReduxBasics/node.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myapp/src/reduxZiShu/aa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myapp" beforeDir="false" afterPath="$PROJECT_DIR$/myapp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myapp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/myapp/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../antd-demo1" beforeDir="false" afterPath="$PROJECT_DIR$/../antd-demo1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../myapp/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +24,9 @@
   <component name="ProjectId" id="1RVJF2PofbKymkBUN5R4jekNlLI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redux-demo" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569746222512</updated>
       <workItem from="1569746223584" duration="348000" />
+      <workItem from="1571651188822" duration="175000" />
     </task>
     <servers />
   </component>
@@ -68,7 +63,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

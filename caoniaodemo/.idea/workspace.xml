@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5253ca3a-63a4-42f0-9168-db69339157b2" name="Default Changelist" comment="" />
+    <list default="true" id="5253ca3a-63a4-42f0-9168-db69339157b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ReactCaoniao/redux-demo/src/components/control/ControlPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReactCaoniao/redux-demo/src/components/control/SwitchButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReactCaoniao/redux-demo/src/components/control/button.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReactCaoniao/redux-demo/src/components/screen/Screen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReactCaoniao/redux-demo/src/components/screen/TVInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ReactCaoniao/redux-demo/src/components/screen/tv-info.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReactCaoniao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactCaoniao/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReactCaoniao/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactCaoniao/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReactCaoniao/myapp" beforeDir="false" afterPath="$PROJECT_DIR$/../ReactCaoniao/myapp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../antd-demo1" beforeDir="false" afterPath="$PROJECT_DIR$/../antd-demo1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../myapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../myapp/package.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +28,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1ROmYTIregban6uDEZIPhgqVEk1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../antd-demo2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -48,10 +66,22 @@
       <option name="presentableId" value="Default" />
       <updated>1569546563765</updated>
       <workItem from="1569546564844" duration="1785000" />
+      <workItem from="1574236940049" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
