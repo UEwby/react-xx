@@ -8,6 +8,10 @@ export default class TodoWrapper extends Component {
   }
   task = React.createRef()
   handleClick = () => {
+    if (!this.task.current.value) {
+      alert('请输入标题')
+      return
+    }
     let list = [...this.state.list, this.task.current.value]
     this.setState({
       list: list
